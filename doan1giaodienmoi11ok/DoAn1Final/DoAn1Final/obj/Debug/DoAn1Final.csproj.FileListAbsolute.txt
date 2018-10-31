@@ -1,0 +1,129 @@
+c:\users\admin\documents\visual studio 2015\Projects\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form2.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form3.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.pdb
+C:\Users\Admin\Desktop\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe.config
+C:\Users\Admin\Desktop\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.exe
+C:\Users\Admin\Desktop\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.pdb
+C:\Users\Admin\Desktop\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe
+C:\Users\Admin\Desktop\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.pdb
+C:\Users\Admin\Desktop\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form1.resources
+C:\Users\Admin\Desktop\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form2.resources
+C:\Users\Admin\Desktop\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form3.resources
+C:\Users\Admin\Desktop\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csproj.GenerateResource.Cache
+E:\doAn1LamXongNhap1\doan1giaodienmoi3\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe.config
+E:\doAn1LamXongNhap1\doan1giaodienmoi3\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.exe
+E:\doAn1LamXongNhap1\doan1giaodienmoi3\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.pdb
+E:\doAn1LamXongNhap1\doan1giaodienmoi3\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe
+E:\doAn1LamXongNhap1\doan1giaodienmoi3\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.pdb
+E:\doAn1LamXongNhap1\doan1giaodienmoi3\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Design.dll
+E:\doAn1LamXongNhap1\doan1giaodienmoi3\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.dll
+E:\doAn1LamXongNhap1\doan1giaodienmoi3\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Fonts.dll
+E:\doAn1LamXongNhap1\doan1giaodienmoi3\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csprojResolveAssemblyReference.cache
+E:\doAn1LamXongNhap1\doan1giaodienmoi3\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form1.resources
+E:\doAn1LamXongNhap1\doan1giaodienmoi3\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form2.resources
+E:\doAn1LamXongNhap1\doan1giaodienmoi3\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form3.resources
+E:\doAn1LamXongNhap1\doan1giaodienmoi3\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Properties.Resources.resources
+E:\doAn1LamXongNhap1\doan1giaodienmoi3\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\New folder (2)\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe.config
+C:\Users\Admin\Desktop\New folder (2)\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.exe
+C:\Users\Admin\Desktop\New folder (2)\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.pdb
+C:\Users\Admin\Desktop\New folder (2)\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe
+C:\Users\Admin\Desktop\New folder (2)\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.pdb
+C:\Users\Admin\Desktop\New folder (2)\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\New folder (2)\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\New folder (2)\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\New folder (2)\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (2)\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form1.resources
+C:\Users\Admin\Desktop\New folder (2)\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form2.resources
+C:\Users\Admin\Desktop\New folder (2)\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form3.resources
+C:\Users\Admin\Desktop\New folder (2)\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder (2)\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csproj.GenerateResource.Cache
+E:\doAn1LamXongNhap1\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe.config
+E:\doAn1LamXongNhap1\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.exe
+E:\doAn1LamXongNhap1\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.pdb
+E:\doAn1LamXongNhap1\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe
+E:\doAn1LamXongNhap1\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.pdb
+E:\doAn1LamXongNhap1\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Design.dll
+E:\doAn1LamXongNhap1\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.dll
+E:\doAn1LamXongNhap1\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Fonts.dll
+E:\doAn1LamXongNhap1\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csprojResolveAssemblyReference.cache
+E:\doAn1LamXongNhap1\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form1.resources
+E:\doAn1LamXongNhap1\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form2.resources
+E:\doAn1LamXongNhap1\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form3.resources
+E:\doAn1LamXongNhap1\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Properties.Resources.resources
+E:\doAn1LamXongNhap1\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe.config
+C:\Users\Admin\Desktop\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.exe
+C:\Users\Admin\Desktop\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.pdb
+C:\Users\Admin\Desktop\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe
+C:\Users\Admin\Desktop\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.pdb
+C:\Users\Admin\Desktop\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form1.resources
+C:\Users\Admin\Desktop\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form2.resources
+C:\Users\Admin\Desktop\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form3.resources
+C:\Users\Admin\Desktop\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Properties.Resources.resources
+C:\Users\Admin\Desktop\doan1giaodienmoi6bantocdothap\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csproj.GenerateResource.Cache
+E:\doAn1LamXongNhap1\doan1giaodienmoi9\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe.config
+E:\doAn1LamXongNhap1\doan1giaodienmoi9\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.exe
+E:\doAn1LamXongNhap1\doan1giaodienmoi9\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.pdb
+C:\Users\Admin\Desktop\doan1giaodienmoi9\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe.config
+C:\Users\Admin\Desktop\doan1giaodienmoi9\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.exe
+C:\Users\Admin\Desktop\doan1giaodienmoi9\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.pdb
+C:\Users\Admin\Desktop\doan1giaodienmoi9\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe
+C:\Users\Admin\Desktop\doan1giaodienmoi9\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.pdb
+C:\Users\Admin\Desktop\doan1giaodienmoi9\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\doan1giaodienmoi9\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\doan1giaodienmoi9\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\doan1giaodienmoi9\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\doan1giaodienmoi9\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form1.resources
+C:\Users\Admin\Desktop\doan1giaodienmoi9\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form2.resources
+C:\Users\Admin\Desktop\doan1giaodienmoi9\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form3.resources
+C:\Users\Admin\Desktop\doan1giaodienmoi9\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Properties.Resources.resources
+C:\Users\Admin\Desktop\doan1giaodienmoi9\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csproj.GenerateResource.Cache
+E:\doAn1LamXongNhap1\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe.config
+E:\doAn1LamXongNhap1\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.exe
+E:\doAn1LamXongNhap1\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.pdb
+E:\doAn1LamXongNhap1\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe
+E:\doAn1LamXongNhap1\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.pdb
+E:\doAn1LamXongNhap1\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Design.dll
+E:\doAn1LamXongNhap1\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.dll
+E:\doAn1LamXongNhap1\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Fonts.dll
+E:\doAn1LamXongNhap1\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csprojResolveAssemblyReference.cache
+E:\doAn1LamXongNhap1\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form1.resources
+E:\doAn1LamXongNhap1\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form2.resources
+E:\doAn1LamXongNhap1\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form3.resources
+E:\doAn1LamXongNhap1\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Properties.Resources.resources
+E:\doAn1LamXongNhap1\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe.config
+C:\Users\Admin\Desktop\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.exe
+C:\Users\Admin\Desktop\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.pdb
+C:\Users\Admin\Desktop\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.exe
+C:\Users\Admin\Desktop\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\bin\Debug\DoAn1Final.pdb
+C:\Users\Admin\Desktop\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form1.resources
+C:\Users\Admin\Desktop\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form2.resources
+C:\Users\Admin\Desktop\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Form3.resources
+C:\Users\Admin\Desktop\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.Properties.Resources.resources
+C:\Users\Admin\Desktop\doan1giaodienmoi10ok\DoAn1Final\DoAn1Final\obj\Debug\DoAn1Final.csproj.GenerateResource.Cache
